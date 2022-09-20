@@ -1,1 +1,1 @@
-# JATE-PWA-Text-Editor
+# JATE Text Editor
