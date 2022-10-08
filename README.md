@@ -11,8 +11,6 @@
   
 ## Description
 
-In week 19 of the UWA coding bootcamp we have been tasked with finishing the code on a PWA text editor.
-
 This text editor known as Jate, runs in the browser, and is a single-page application that meets PWA criteria. Jate features a number of data persistence techniques that serve as redundancy in case an option is not supported in the browser, also has functionality offline.
 
 ## Skills Used
